@@ -1,0 +1,11 @@
+def fact(x):
+	print "factorial of ::"
+        print x
+
+
+
+
+
+
+
+fact(4)

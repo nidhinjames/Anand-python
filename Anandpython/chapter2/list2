@@ -1,0 +1,4 @@
+list1 = [a, b, c, d, e]
+list2 = [1, 2, 3, 4, 5]
+print list1
+print list2

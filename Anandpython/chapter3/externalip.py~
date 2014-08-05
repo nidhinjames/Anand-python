@@ -1,0 +1,4 @@
+import urllib, json
+
+data = json.loads(urllib.urlopen("http:///").read())
+print data["ip"]

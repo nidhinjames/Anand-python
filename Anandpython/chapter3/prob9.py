@@ -1,0 +1,7 @@
+﻿import re
+str = raw_input("enter the phone number")
+phno = re.search(r'\d{10}',str)
+if phno:
+	print "valid phone number!!!!"
+else:
+	print "invalid phone number!!!!!:"
