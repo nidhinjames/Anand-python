@@ -1,0 +1,8 @@
+def count_digit(x):
+    return(len(str(x)))
+
+
+
+count_digit(12345)
+
+    

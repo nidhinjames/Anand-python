@@ -1,0 +1,17 @@
+def sum(x):
+    sum = 0
+    n = len(x)
+    print "length"
+    print n
+    i = 0
+    print "::::sum of a list::::"
+    while i<n:
+	sum = sum + x[i]
+	i += 1
+    
+	          
+
+    print sum
+
+
+sum([1, 2, 3, 4, 5])
